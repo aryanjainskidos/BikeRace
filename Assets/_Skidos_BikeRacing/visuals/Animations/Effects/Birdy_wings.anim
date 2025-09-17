@@ -1,0 +1,1232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Birdy_wings
+  serializedVersion: 4
+  m_AnimationType: 2
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.466730833, w: .884399414}
+        inSlope: {x: 0, y: 0, z: -4.87175322, w: -2.87238455}
+        outSlope: {x: 0, y: 0, z: -4.87175322, w: -2.87238455}
+        tangentMode: 0
+      - time: .0166666675
+        value: {x: 0, y: 0, z: -.547926724, w: .836526334}
+        inSlope: {x: 0, y: 0, z: -5.02893066, w: -3.34089494}
+        outSlope: {x: 0, y: 0, z: -5.02893066, w: -3.34089494}
+        tangentMode: 13
+      - time: .0333333351
+        value: {x: 0, y: 0, z: -.634361863, w: .773036242}
+        inSlope: {x: 0, y: 0, z: -4.83007526, w: -3.9374001}
+        outSlope: {x: 0, y: 0, z: -4.83007526, w: -3.9374001}
+        tangentMode: 13
+      - time: .0500000045
+        value: {x: 0, y: 0, z: -.708929241, w: .705279648}
+        inSlope: {x: 0, y: 0, z: -3.75841475, w: -3.68085432}
+        outSlope: {x: 0, y: 0, z: -3.75841475, w: -3.68085432}
+        tangentMode: 119891856
+      - time: .0666666701
+        value: {x: 0, y: 0, z: -.759642363, w: .650341094}
+        inSlope: {x: 0, y: 0, z: -2.08248878, w: -2.32330465}
+        outSlope: {x: 0, y: 0, z: -2.08248878, w: -2.32330465}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.778345525, w: .627836168}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .100000001
+        value: {x: 0, y: 0, z: -.759642363, w: .650341094}
+        inSlope: {x: 0, y: 0, z: 2.08248878, w: 2.32330465}
+        outSlope: {x: 0, y: 0, z: 2.08248878, w: 2.32330465}
+        tangentMode: 39
+      - time: .116666667
+        value: {x: 0, y: 0, z: -.708929241, w: .705279648}
+        inSlope: {x: 0, y: 0, z: 3.75841427, w: 3.68085384}
+        outSlope: {x: 0, y: 0, z: 3.75841427, w: 3.68085384}
+        tangentMode: 1085276160
+      - time: .13333334
+        value: {x: 0, y: 0, z: -.634361863, w: .773036242}
+        inSlope: {x: 0, y: 0, z: 4.83007479, w: 3.93739986}
+        outSlope: {x: 0, y: 0, z: 4.83007479, w: 3.93739986}
+        tangentMode: 16777473
+      - time: .150000006
+        value: {x: 0, y: 0, z: -.547926724, w: .836526334}
+        inSlope: {x: 0, y: 0, z: 5.02893114, w: 3.34089541}
+        outSlope: {x: 0, y: 0, z: 5.02893114, w: 3.34089541}
+        tangentMode: 1090519040
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.466730833, w: .884399414}
+        inSlope: {x: 0, y: 0, z: 4.87175369, w: 2.87238503}
+        outSlope: {x: 0, y: 0, z: 4.87175369, w: 2.87238503}
+        tangentMode: 1111490560
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Birdy_wing_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.824116826, w: .56641984}
+        inSlope: {x: 0, y: 0, z: 3.76938319, w: 4.91923523}
+        outSlope: {x: 0, y: 0, z: 3.76938319, w: 4.91923523}
+        tangentMode: 75
+      - time: .0166666675
+        value: {x: 0, y: 0, z: -.761293769, w: .648407102}
+        inSlope: {x: 0, y: 0, z: 4.32448769, w: 5.00467968}
+        outSlope: {x: 0, y: 0, z: 4.32448769, w: 5.00467968}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 0, y: 0, z: -.679967225, w: .733242512}
+        inSlope: {x: 0, y: 0, z: 4.98904228, w: 4.65972805}
+        outSlope: {x: 0, y: 0, z: 4.98904228, w: 4.65972805}
+        tangentMode: 985782786
+      - time: .0500000045
+        value: {x: 0, y: 0, z: -.59499234, w: .803731382}
+        inSlope: {x: 0, y: 0, z: 4.58304882, w: 3.49498248}
+        outSlope: {x: 0, y: 0, z: 4.58304882, w: 3.49498248}
+        tangentMode: 0
+      - time: .0666666701
+        value: {x: 0, y: 0, z: -.527198911, w: .849741936}
+        inSlope: {x: 0, y: 0, z: 2.85931993, w: 1.87433136}
+        outSlope: {x: 0, y: 0, z: 2.85931993, w: 1.87433136}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.499681681, w: .86620909}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .100000001
+        value: {x: 0, y: 0, z: -.527198911, w: .849741936}
+        inSlope: {x: 0, y: 0, z: -2.85931993, w: -1.87433136}
+        outSlope: {x: 0, y: 0, z: -2.85931993, w: -1.87433136}
+        tangentMode: 1768249134
+      - time: .116666667
+        value: {x: 0, y: 0, z: -.59499234, w: .803731382}
+        inSlope: {x: 0, y: 0, z: -4.58304882, w: -3.494982}
+        outSlope: {x: 0, y: 0, z: -4.58304882, w: -3.494982}
+        tangentMode: 1701146707
+      - time: .13333334
+        value: {x: 0, y: 0, z: -.679967225, w: .733242512}
+        inSlope: {x: 0, y: 0, z: -4.98904228, w: -4.65972805}
+        outSlope: {x: 0, y: 0, z: -4.98904228, w: -4.65972805}
+        tangentMode: 593579268
+      - time: .150000006
+        value: {x: 0, y: 0, z: -.761293769, w: .648407102}
+        inSlope: {x: 0, y: 0, z: -4.32448816, w: -5.00468063}
+        outSlope: {x: 0, y: 0, z: -4.32448816, w: -5.00468063}
+        tangentMode: 96
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.824116826, w: .56641984}
+        inSlope: {x: 0, y: 0, z: -3.76938367, w: -4.91923618}
+        outSlope: {x: 0, y: 0, z: -3.76938367, w: -4.91923618}
+        tangentMode: 15
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Birdy_wing_2
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.103, y: .237000003, z: .100000001}
+        inSlope: {x: -1.96695328e-06, y: -1.78813934e-07, z: 0}
+        outSlope: {x: -1.96695328e-06, y: -1.78813934e-07, z: 0}
+        tangentMode: 590864420
+      - time: .0833333358
+        value: {x: -.103000164, y: .236999989, z: .100000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 3
+      - time: .166666672
+        value: {x: -.103, y: .237000003, z: .100000001}
+        inSlope: {x: 1.96695328e-06, y: 1.78813934e-07, z: 0}
+        outSlope: {x: 1.96695328e-06, y: 1.78813934e-07, z: 0}
+        tangentMode: 4
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Birdy_wing_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0193958282, y: .243079901, z: .100000001}
+        inSlope: {x: 2.05636024e-06, y: 1.25169754e-06, z: 0}
+        outSlope: {x: 2.05636024e-06, y: 1.25169754e-06, z: 0}
+        tangentMode: 1
+      - time: .0833333358
+        value: {x: .0193959996, y: .243080005, z: .100000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 590864420
+      - time: .166666672
+        value: {x: .0193958282, y: .243079901, z: .100000001}
+        inSlope: {x: -2.05636024e-06, y: -1.25169754e-06, z: 0}
+        outSlope: {x: -2.05636024e-06, y: -1.25169754e-06, z: 0}
+        tangentMode: 606246304
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Birdy_wing_1
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: -1.07347453, z: 1}
+        inSlope: {x: 0, y: 4.99846506, z: 0}
+        outSlope: {x: 0, y: 4.99846506, z: 0}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 1, y: -.656935751, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 593714552
+      - time: .166666672
+        value: {x: 1, y: -1.07347453, z: 1}
+        inSlope: {x: 0, y: -4.99846506, z: 0}
+        outSlope: {x: 0, y: -4.99846506, z: 0}
+        tangentMode: 75
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Birdy_wing_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1.22898531, z: 1}
+        inSlope: {x: 0, y: -4.150352, z: 0}
+        outSlope: {x: 0, y: -4.150352, z: 0}
+        tangentMode: 590864420
+      - time: .0833333358
+        value: {x: 1, y: .883122623, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 1, y: 1.22898531, z: 1}
+        inSlope: {x: 0, y: 4.150352, z: 0}
+        outSlope: {x: 0, y: 4.150352, z: 0}
+        tangentMode: 1105199104
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Birdy_wing_1
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 4164269214
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1631380772
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1631380772
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4164269214
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4164269214
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1631380772
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .166666672
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.07347453
+        inSlope: 4.99846506
+        outSlope: 4.99846506
+        tangentMode: 10
+      - time: .0833333358
+        value: -.656935751
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: -1.07347453
+        inSlope: -4.99846506
+        outSlope: -4.99846506
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .100000001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: .100000001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: .100000001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .884399414
+        inSlope: -2.87238455
+        outSlope: -2.87238455
+        tangentMode: 0
+      - time: .0166666675
+        value: .836526334
+        inSlope: -3.34089494
+        outSlope: -3.34089494
+        tangentMode: 0
+      - time: .0333333351
+        value: .773036242
+        inSlope: -3.9374001
+        outSlope: -3.9374001
+        tangentMode: 0
+      - time: .0500000045
+        value: .705279648
+        inSlope: -3.68085432
+        outSlope: -3.68085432
+        tangentMode: 0
+      - time: .0666666701
+        value: .650341094
+        inSlope: -2.32330465
+        outSlope: -2.32330465
+        tangentMode: 0
+      - time: .0833333358
+        value: .627836168
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: .650341094
+        inSlope: 2.32330465
+        outSlope: 2.32330465
+        tangentMode: 0
+      - time: .116666667
+        value: .705279648
+        inSlope: 3.68085384
+        outSlope: 3.68085384
+        tangentMode: 0
+      - time: .13333334
+        value: .773036242
+        inSlope: 3.93739986
+        outSlope: 3.93739986
+        tangentMode: 0
+      - time: .150000006
+        value: .836526334
+        inSlope: 3.34089541
+        outSlope: 3.34089541
+        tangentMode: 0
+      - time: .166666672
+        value: .884399414
+        inSlope: 2.87238503
+        outSlope: 2.87238503
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.466730833
+        inSlope: -4.87175322
+        outSlope: -4.87175322
+        tangentMode: 0
+      - time: .0166666675
+        value: -.547926724
+        inSlope: -5.02893066
+        outSlope: -5.02893066
+        tangentMode: 0
+      - time: .0333333351
+        value: -.634361863
+        inSlope: -4.83007526
+        outSlope: -4.83007526
+        tangentMode: 0
+      - time: .0500000045
+        value: -.708929241
+        inSlope: -3.75841475
+        outSlope: -3.75841475
+        tangentMode: 0
+      - time: .0666666701
+        value: -.759642363
+        inSlope: -2.08248878
+        outSlope: -2.08248878
+        tangentMode: 0
+      - time: .0833333358
+        value: -.778345525
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: -.759642363
+        inSlope: 2.08248878
+        outSlope: 2.08248878
+        tangentMode: 0
+      - time: .116666667
+        value: -.708929241
+        inSlope: 3.75841427
+        outSlope: 3.75841427
+        tangentMode: 0
+      - time: .13333334
+        value: -.634361863
+        inSlope: 4.83007479
+        outSlope: 4.83007479
+        tangentMode: 0
+      - time: .150000006
+        value: -.547926724
+        inSlope: 5.02893114
+        outSlope: 5.02893114
+        tangentMode: 0
+      - time: .166666672
+        value: -.466730833
+        inSlope: 4.87175369
+        outSlope: 4.87175369
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0166666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0500000045
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .116666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .150000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0166666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0500000045
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .116666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .150000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0193958282
+        inSlope: 2.05636024e-06
+        outSlope: 2.05636024e-06
+        tangentMode: 10
+      - time: .0833333358
+        value: .0193959996
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: .0193958282
+        inSlope: -2.05636024e-06
+        outSlope: -2.05636024e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .243079901
+        inSlope: 1.25169754e-06
+        outSlope: 1.25169754e-06
+        tangentMode: 10
+      - time: .0833333358
+        value: .243080005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: .243079901
+        inSlope: -1.25169754e-06
+        outSlope: -1.25169754e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .100000001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: .100000001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: .100000001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.22898531
+        inSlope: -4.150352
+        outSlope: -4.150352
+        tangentMode: 10
+      - time: .0833333358
+        value: .883122623
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1.22898531
+        inSlope: 4.150352
+        outSlope: 4.150352
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.103
+        inSlope: -1.96695328e-06
+        outSlope: -1.96695328e-06
+        tangentMode: 10
+      - time: .0833333358
+        value: -.103000164
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: -.103
+        inSlope: 1.96695328e-06
+        outSlope: 1.96695328e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .237000003
+        inSlope: -1.78813934e-07
+        outSlope: -1.78813934e-07
+        tangentMode: 10
+      - time: .0833333358
+        value: .236999989
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: .237000003
+        inSlope: 1.78813934e-07
+        outSlope: 1.78813934e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0166666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0500000045
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .116666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .150000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0166666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0500000045
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .116666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .150000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.824116826
+        inSlope: 3.76938319
+        outSlope: 3.76938319
+        tangentMode: 0
+      - time: .0166666675
+        value: -.761293769
+        inSlope: 4.32448769
+        outSlope: 4.32448769
+        tangentMode: 0
+      - time: .0333333351
+        value: -.679967225
+        inSlope: 4.98904228
+        outSlope: 4.98904228
+        tangentMode: 0
+      - time: .0500000045
+        value: -.59499234
+        inSlope: 4.58304882
+        outSlope: 4.58304882
+        tangentMode: 0
+      - time: .0666666701
+        value: -.527198911
+        inSlope: 2.85931993
+        outSlope: 2.85931993
+        tangentMode: 0
+      - time: .0833333358
+        value: -.499681681
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: -.527198911
+        inSlope: -2.85931993
+        outSlope: -2.85931993
+        tangentMode: 0
+      - time: .116666667
+        value: -.59499234
+        inSlope: -4.58304882
+        outSlope: -4.58304882
+        tangentMode: 0
+      - time: .13333334
+        value: -.679967225
+        inSlope: -4.98904228
+        outSlope: -4.98904228
+        tangentMode: 0
+      - time: .150000006
+        value: -.761293769
+        inSlope: -4.32448816
+        outSlope: -4.32448816
+        tangentMode: 0
+      - time: .166666672
+        value: -.824116826
+        inSlope: -3.76938367
+        outSlope: -3.76938367
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .56641984
+        inSlope: 4.91923523
+        outSlope: 4.91923523
+        tangentMode: 0
+      - time: .0166666675
+        value: .648407102
+        inSlope: 5.00467968
+        outSlope: 5.00467968
+        tangentMode: 0
+      - time: .0333333351
+        value: .733242512
+        inSlope: 4.65972805
+        outSlope: 4.65972805
+        tangentMode: 0
+      - time: .0500000045
+        value: .803731382
+        inSlope: 3.49498248
+        outSlope: 3.49498248
+        tangentMode: 0
+      - time: .0666666701
+        value: .849741936
+        inSlope: 1.87433136
+        outSlope: 1.87433136
+        tangentMode: 0
+      - time: .0833333358
+        value: .86620909
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: .849741936
+        inSlope: -1.87433136
+        outSlope: -1.87433136
+        tangentMode: 0
+      - time: .116666667
+        value: .803731382
+        inSlope: -3.494982
+        outSlope: -3.494982
+        tangentMode: 0
+      - time: .13333334
+        value: .733242512
+        inSlope: -4.65972805
+        outSlope: -4.65972805
+        tangentMode: 0
+      - time: .150000006
+        value: .648407102
+        inSlope: -5.00468063
+        outSlope: -5.00468063
+        tangentMode: 0
+      - time: .166666672
+        value: .56641984
+        inSlope: -4.91923618
+        outSlope: -4.91923618
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -110.998108
+        inSlope: 612.482666
+        outSlope: 612.482666
+        tangentMode: 10
+      - time: .0833333358
+        value: -59.9578857
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: -110.998108
+        inSlope: -612.482666
+        outSlope: -612.482666
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Birdy_wing_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -55.6445923
+        inSlope: -558.88916
+        outSlope: -558.88916
+        tangentMode: 10
+      - time: .0833333358
+        value: -102.218689
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: -55.6445923
+        inSlope: 558.88916
+        outSlope: 558.88916
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Birdy_wing_1
+    classID: 4
+    script: {fileID: 0}
+  m_Events: []

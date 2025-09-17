@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5323351361c847d194434c8d5e1aa0b, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  levelDataEntries:
+  - name: a___011
+    starsToUnlock: 10
+    mpWinsToUnlock: 0
+  - name: a___021
+    starsToUnlock: 25
+    mpWinsToUnlock: 0
+  - name: a___031
+    starsToUnlock: 40
+    mpWinsToUnlock: 0
+  - name: a___041
+    starsToUnlock: 60
+    mpWinsToUnlock: 0
+  - name: a___051
+    starsToUnlock: 80
+    mpWinsToUnlock: 0
+  - name: a___061
+    starsToUnlock: 100
+    mpWinsToUnlock: 0
+  - name: a___071
+    starsToUnlock: 120
+    mpWinsToUnlock: 0

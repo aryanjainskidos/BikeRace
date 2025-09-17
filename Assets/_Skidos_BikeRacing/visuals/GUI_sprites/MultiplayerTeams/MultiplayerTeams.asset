@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02cd8658f0f04495299fd7741949e5a3, type: 3}
+  m_Name: MultiplayerTeams
+  m_EditorClassIdentifier: 
+  m_Texture: {fileID: 2800000, guid: a1d6569514e704a3ca2ee2dbc2c08744, type: 3}
+  m_Padding: 1
+  m_MaxSize: 4096
+  m_PackingMethod: 0
+  m_DefaultPivot: 0
+  m_DefaultCustomPivot: {x: .5, y: .5}
+  m_Sprites:
+  - source: {fileID: 21300000, guid: 04010a15e21bc495484d2c9c4ff1904c, type: 3}
+    targetSprite: {fileID: 21300000, guid: a1d6569514e704a3ca2ee2dbc2c08744, type: 3}
+  - source: {fileID: 21300000, guid: 5170aa7ed876f4cac8cf2e83e0a8beee, type: 3}
+    targetSprite: {fileID: 21300002, guid: a1d6569514e704a3ca2ee2dbc2c08744, type: 3}
+  - source: {fileID: 21300000, guid: 95d9d622f5f8f4b3ab8fa9249cc0fde5, type: 3}
+    targetSprite: {fileID: 21300004, guid: a1d6569514e704a3ca2ee2dbc2c08744, type: 3}
+  - source: {fileID: 21300000, guid: 9d0cd5ec7864b4f67a51a05a296e4160, type: 3}
+    targetSprite: {fileID: 21300006, guid: a1d6569514e704a3ca2ee2dbc2c08744, type: 3}
+  m_PendingActions: []

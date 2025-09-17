@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: 27b4d26b5ac604ea28f489a4a6139d29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Helmet_c0
+  - first:
+      213: 21300002
+    second: Helmet_c1
+  - first:
+      213: 21300004
+    second: Helmet_c2
+  - first:
+      213: 21300006
+    second: Core_c0
+  - first:
+      213: 21300008
+    second: Core_c1
+  - first:
+      213: 21300010
+    second: Bike_decal_c2
+  - first:
+      213: 21300012
+    second: Upper_leg_c1
+  - first:
+      213: 21300014
+    second: Upper_leg_left_c1
+  - first:
+      213: 21300016
+    second: Lower_arm_left_c1
+  - first:
+      213: 21300018
+    second: Lower_arm_c0
+  - first:
+      213: 21300020
+    second: Lower_arm_c1
+  - first:
+      213: 21300022
+    second: Lower_arm_left_c0
+  - first:
+      213: 21300024
+    second: Upper_arm_c1
+  - first:
+      213: 21300026
+    second: Upper_arm_left_c1
+  - first:
+      213: 21300028
+    second: Lower_leg_c1
+  - first:
+      213: 21300030
+    second: Lower_leg_left_c1
+  - first:
+      213: 21300032
+    second: Foot_left_c1
+  - first:
+      213: 21300034
+    second: Foot_left_c0
+  - first:
+      213: 21300036
+    second: Foot_c0
+  - first:
+      213: 21300038
+    second: Foot_c1
+  - first:
+      213: 21300040
+    second: Palm_left_c1
+  - first:
+      213: 21300042
+    second: Palm_c1
+  - first:
+      213: 21300044
+    second: Profile_Pank_c1
+  - first:
+      213: 21300046
+    second: Profile_Pank_c0
+  - first:
+      213: 21300048
+    second: Bike_Decal_Number
+  - first:
+      213: 21300050
+    second: HelmetLight_c0
+  - first:
+      213: 21300052
+    second: Upper_leg_light_c0
+  - first:
+      213: 21300054
+    second: Lower_arm_light_c0
+  - first:
+      213: 21300056
+    second: Upper_arm_light_c0
+  - first:
+      213: 21300058
+    second: Foot_light_c0
+  - first:
+      213: 21300060
+    second: HelmetLight_c0
+  - first:
+      213: 21300062
+    second: Profile_Pank_c2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Profile_Pank_c1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306ed460be3524c53ab695ced89d80f5
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profile_Pank_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 160
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62333ef7a5eab4380963c28806f6239e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profile_Pank_c2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 160
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2903e2fca0ed44d792a0bea24bb4229
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helmet_c1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 243
+        width: 155
+        height: 182
+      alignment: 9
+      pivot: {x: 0.4096898, y: 0.17724213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa91fb39dcd134f8f80f3f31bcfe1d32
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelmetLight_c0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 243
+        width: 155
+        height: 182
+      alignment: 9
+      pivot: {x: 0.4096898, y: 0.17724209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ed254ff53d345a5a48ae770e70f35f
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelmetLight_c0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 155
+        height: 182
+      alignment: 9
+      pivot: {x: 0.4096898, y: 0.17724209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee9286d01771436bbd54e968bfaaf15
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helmet_c2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 183
+        width: 155
+        height: 182
+      alignment: 9
+      pivot: {x: 0.4096898, y: 0.17724213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a189400685d2411586cb930cbd0aeb6
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helmet_c0
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 155
+        height: 182
+      alignment: 9
+      pivot: {x: 0.4096898, y: 0.17724213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c53191250cc46c6937bc034598c9c0
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core_c1
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 366
+        width: 62
+        height: 107
+      alignment: 9
+      pivot: {x: 0.29852557, y: 0.08522177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ab7988268e8480d87db08b93b7972a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core_c0
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 366
+        width: 62
+        height: 107
+      alignment: 9
+      pivot: {x: 0.29852557, y: 0.08522177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0bc70cdba2143de98a22d3b8898b3f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bike_decal_c2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 183
+        width: 109
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c567e2a87c984df2a526d1ad0cbecc1
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_leg_left_c1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 183
+        width: 33
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33552045, y: 0.741725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b05d01a4a78492982953cdcf1f8dbc
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_leg_light_c0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 426
+        width: 33
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33552045, y: 0.741725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bf17e1411b3487dab5a07a2e8b1700
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_leg_c1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 426
+        width: 33
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33552045, y: 0.741725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d1c86782b5547e286db79a36489379
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_arm_c0
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 426
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.53261906, y: 0.7911687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7068867120bd8465f927108e35902f2c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_arm_left_c1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 465
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.53261906, y: 0.7911687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108d5dd0515444715a91aac2b3e1d6eb
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_arm_c1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 426
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.53261906, y: 0.7911687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5616cf85ec94c4ffb955e4158e88757b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_arm_light_c0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 465
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.53261906, y: 0.7911687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df6de48b713c4368950c58d37df2e9a
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_arm_left_c0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 426
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.53261906, y: 0.7911687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0473343ca18cb49cc8189ee94637d2fc
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_arm_light_c0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 465
+        width: 25
+        height: 45
+      alignment: 9
+      pivot: {x: 0.59185547, y: 0.77194065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4521ec6480c441718fa94639b2e3752
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_arm_left_c1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 465
+        width: 25
+        height: 44
+      alignment: 9
+      pivot: {x: 0.59185547, y: 0.7719406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b9ce83275474873b5caf627d6a9010
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_arm_c1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 426
+        width: 25
+        height: 44
+      alignment: 9
+      pivot: {x: 0.59185547, y: 0.7719406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e719d03f09d4e8d80dab2b0e6cc897
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_leg_left_c1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 426
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.56877756, y: 0.7499657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc303d8c6f3344fcb2820110bb81968
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_leg_c1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 469
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.56877756, y: 0.7499657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9ebab8cd13c41b2ab0f0d2a038d1d0
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot_light_c0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 479
+        width: 38
+        height: 25
+      alignment: 9
+      pivot: {x: 0.21273094, y: 0.6743229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d322581474e4ebc8d0eaaeb4bb68ab
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 38
+        height: 24
+      alignment: 9
+      pivot: {x: 0.21273094, y: 0.67432296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1b28f86a8d64767a4f311358c5062c
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot_left_c0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 486
+        width: 38
+        height: 24
+      alignment: 9
+      pivot: {x: 0.21273094, y: 0.67432296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07988218569b048a6898bddd861814c6
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot_c1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 486
+        width: 38
+        height: 24
+      alignment: 9
+      pivot: {x: 0.21273094, y: 0.67432296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9f49fea173b46a3b99a8b666d8c69b
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot_left_c1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 486
+        width: 38
+        height: 24
+      alignment: 9
+      pivot: {x: 0.21273094, y: 0.67432296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c7042326c5e4297ba278f450565ca1
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palm_c1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 479
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7239358, y: 0.8667079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1e1f3c225794e6396ff4e895816851
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palm_left_c1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 471
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7239358, y: 0.8667079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb0454ed57134998a888ec94a06e7f2
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bike_Decal_Number
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 426
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f20ee64bea864d29b1b867be4310a23
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lower_leg_c1: 21300028
+      Foot_left_c1: 21300032
+      Upper_leg_c1: 21300012
+      Lower_leg_left_c1: 21300030
+      Foot_c1: 21300038
+      Profile_Pank_c2: 21300062
+      Lower_arm_left_c0: 21300022
+      Bike_Decal_Number: 21300048
+      Profile_Pank_c1: 21300044
+      Helmet_c0: 21300000
+      Palm_left_c1: 21300040
+      Upper_leg_left_c1: 21300014
+      Helmet_c1: 21300002
+      Helmet_c2: 21300004
+      Foot_left_c0: 21300034
+      Profile_Pank_c0: 21300046
+      HelmetLight_c0: 21300050
+      Lower_arm_left_c1: 21300016
+      Upper_leg_light_c0: 21300052
+      Bike_decal_c2: 21300010
+      Palm_c1: 21300042
+      Lower_arm_light_c0: 21300054
+      Lower_arm_c0: 21300018
+      Upper_arm_left_c1: 21300026
+      Foot_c0: 21300036
+      Upper_arm_c1: 21300024
+      Core_c0: 21300006
+      Lower_arm_c1: 21300020
+      Core_c1: 21300008
+      Upper_arm_light_c0: 21300056
+      Foot_light_c0: 21300058
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

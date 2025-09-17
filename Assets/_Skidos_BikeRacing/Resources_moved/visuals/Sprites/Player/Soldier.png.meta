@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: be10ae462202c4cc8bd20920c53d14ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Helmet_c2
+  - first:
+      213: 21300002
+    second: Helmet_c1
+  - first:
+      213: 21300004
+    second: Helmet_c0
+  - first:
+      213: 21300006
+    second: Core_c0
+  - first:
+      213: 21300008
+    second: Core_c2
+  - first:
+      213: 21300010
+    second: Core_c1
+  - first:
+      213: 21300012
+    second: Upper_leg_c1
+  - first:
+      213: 21300014
+    second: Upper_leg_c0
+  - first:
+      213: 21300016
+    second: Upper_leg_left_c1
+  - first:
+      213: 21300018
+    second: Upper_leg_left_c0
+  - first:
+      213: 21300020
+    second: Lower_leg_left_c2
+  - first:
+      213: 21300022
+    second: Lower_leg_c1
+  - first:
+      213: 21300024
+    second: Lower_leg_c2
+  - first:
+      213: 21300026
+    second: Lower_leg_left_c1
+  - first:
+      213: 21300028
+    second: Upper_arm_c1
+  - first:
+      213: 21300030
+    second: Upper_arm_left_c1
+  - first:
+      213: 21300032
+    second: Palm_c2
+  - first:
+      213: 21300034
+    second: Palm_left_c2
+  - first:
+      213: 21300036
+    second: Lower_arm_left_c0
+  - first:
+      213: 21300038
+    second: Lower_arm_c0
+  - first:
+      213: 21300040
+    second: Lower_arm_c2
+  - first:
+      213: 21300042
+    second: Lower_arm_left_c2
+  - first:
+      213: 21300044
+    second: Foot_left_c2
+  - first:
+      213: 21300046
+    second: Foot_c2
+  - first:
+      213: 21300048
+    second: Profile_Soldier_c2
+  - first:
+      213: 21300050
+    second: Profile_Soldier_c1
+  - first:
+      213: 21300052
+    second: Profile_Soldier_c0
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Profile_Soldier_c2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8337fe17d652c4a9a93a0168e58f9c56
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profile_Soldier_c1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 150
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8c10c470df4430494607b9c9f6ac9d
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profile_Soldier_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 150
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37944f4fd1bf14a018c938d79cd683ea
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helmet_c2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 148
+        height: 118
+      alignment: 9
+      pivot: {x: 0.3823082, y: 0.2737913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83408f53b70fe49b58d2356d9bbda50e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helmet_c1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 148
+        height: 118
+      alignment: 9
+      pivot: {x: 0.3823082, y: 0.2737913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6302ca9c5667e4295a056b34070adf20
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helmet_c0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 119
+        width: 148
+        height: 118
+      alignment: 9
+      pivot: {x: 0.3823082, y: 0.2737913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511acf9fbc4b9410790838f3fee46087
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core_c0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 119
+        width: 71
+        height: 102
+      alignment: 9
+      pivot: {x: 0.35191733, y: 0.06495387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2fc34cc6a1a45bab6c65eb40edc6aa
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core_c2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 119
+        width: 71
+        height: 102
+      alignment: 9
+      pivot: {x: 0.35191733, y: 0.06495387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8696a9d767d5e41e881878637d62ff1c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core_c1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 222
+        width: 71
+        height: 102
+      alignment: 9
+      pivot: {x: 0.35191733, y: 0.06495387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d6ecc0bdef44575b0c339db570c28c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_leg_left_c0
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 119
+        width: 34
+        height: 58
+      alignment: 9
+      pivot: {x: 0.25903425, y: 0.5773078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb1c43c557124ee7a314079f3867ddb
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_leg_c1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 34
+        height: 58
+      alignment: 9
+      pivot: {x: 0.25903425, y: 0.5773078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10433a4c2000442e09e1f0e2b5a951ca
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_leg_c0
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 59
+        width: 34
+        height: 58
+      alignment: 9
+      pivot: {x: 0.25903425, y: 0.5773078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b45df0b967684819b993963259a9f77
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_leg_left_c1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 178
+        width: 34
+        height: 58
+      alignment: 9
+      pivot: {x: 0.25903425, y: 0.5773078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f2294f9ddbc408ab73f3cb4431e104
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_leg_left_c1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 118
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5873693, y: 0.6530999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad844d84c1e6c4053af94388923293b9
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_leg_c1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 165
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5873693, y: 0.6530999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793ad75cabfd54931ab2d4661820e714
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_leg_left_c2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 212
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5873693, y: 0.6530999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954290835ee8d4394854835013738ea2
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_leg_c2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 222
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5873693, y: 0.6530999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c1db3b2535d40e8a2bceeda60a9d85
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_arm_c1
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 27
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6055474, y: 0.8107474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd115b8e7c674933881fce215b6f0a4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_arm_left_c1
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 48
+        width: 27
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6055474, y: 0.8107474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bc78e4e0a924e96af2fe86dac301be
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palm_c2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 222
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.66882986, y: 0.8622859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c013e13beb59b4b10b4181de45580f4f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palm_left_c2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 237
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.66882986, y: 0.8622859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f4f5f9915f447de90eaff8b4f24ec9
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_arm_left_c2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 257
+        width: 21
+        height: 35
+      alignment: 9
+      pivot: {x: 0.578766, y: 0.90321374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac92e3ed38fb4bf1b4ea5fead1da44e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_arm_c0
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 237
+        width: 21
+        height: 35
+      alignment: 9
+      pivot: {x: 0.578766, y: 0.90321374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4095e459d804df5974fc658f677706
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_arm_left_c0
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 272
+        width: 21
+        height: 35
+      alignment: 9
+      pivot: {x: 0.578766, y: 0.90321374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a39a715552043efa49a8f4b63fff26
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower_arm_c2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 269
+        width: 21
+        height: 35
+      alignment: 9
+      pivot: {x: 0.578766, y: 0.90321374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ada3a02ef8af45a0b33e992d5f839bc
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot_left_c2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 305
+        width: 37
+        height: 18
+      alignment: 9
+      pivot: {x: 0.24089442, y: 0.69463235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dda9bceb1f2449894b13726a4afadb
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot_c2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 37
+        height: 18
+      alignment: 9
+      pivot: {x: 0.24089442, y: 0.69463235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6b704300c264046841ae465d554687
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lower_leg_c2: 21300024
+      Profile_Soldier_c1: 21300050
+      Upper_leg_c1: 21300012
+      Lower_leg_left_c1: 21300026
+      Upper_arm_c1: 21300028
+      Palm_c2: 21300032
+      Foot_c2: 21300046
+      Lower_arm_left_c0: 21300036
+      Profile_Soldier_c2: 21300048
+      Profile_Soldier_c0: 21300052
+      Helmet_c0: 21300004
+      Core_c2: 21300008
+      Upper_leg_left_c1: 21300016
+      Foot_left_c2: 21300044
+      Helmet_c2: 21300000
+      Helmet_c1: 21300002
+      Lower_arm_c2: 21300040
+      Upper_leg_left_c0: 21300018
+      Lower_arm_left_c2: 21300042
+      Lower_leg_left_c2: 21300020
+      Upper_leg_c0: 21300014
+      Lower_arm_c0: 21300038
+      Upper_arm_left_c1: 21300030
+      Lower_leg_c1: 21300022
+      Core_c0: 21300006
+      Core_c1: 21300010
+      Palm_left_c2: 21300034
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

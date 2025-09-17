@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02cd8658f0f04495299fd7741949e5a3, type: 3}
+  m_Name: Objects_Rain
+  m_EditorClassIdentifier: 
+  m_Texture: {fileID: 2800000, guid: 25a772c2a265248bebf9c842987cd421, type: 3}
+  m_Padding: 1
+  m_MaxSize: 4096
+  m_PackingMethod: 0
+  m_DefaultPivot: 0
+  m_DefaultCustomPivot: {x: .5, y: .5}
+  m_Sprites:
+  - source: {fileID: 21300000, guid: ebff92bde5f4746d6a40a1ed07c55ebf, type: 3}
+    targetSprite: {fileID: 21300000, guid: 25a772c2a265248bebf9c842987cd421, type: 3}
+  - source: {fileID: 21300000, guid: ad5e3e0d4a18e49a1bcfc67697a8c01c, type: 3}
+    targetSprite: {fileID: 21300002, guid: 25a772c2a265248bebf9c842987cd421, type: 3}
+  - source: {fileID: 21300000, guid: 5e8b8de447ff141d9a576aeebbaeb06d, type: 3}
+    targetSprite: {fileID: 21300004, guid: 25a772c2a265248bebf9c842987cd421, type: 3}
+  - source: {fileID: 21300000, guid: a643892e407ad4b19a0e97198dba16d6, type: 3}
+    targetSprite: {fileID: 21300006, guid: 25a772c2a265248bebf9c842987cd421, type: 3}
+  - source: {fileID: 21300000, guid: ca14b6ba1d3344cceb51106fe1b70b81, type: 3}
+    targetSprite: {fileID: 21300014, guid: 25a772c2a265248bebf9c842987cd421, type: 3}
+  - source: {fileID: 21300000, guid: 3464e59a833db4b6eac2b2f8072fe511, type: 3}
+    targetSprite: {fileID: 21300016, guid: 25a772c2a265248bebf9c842987cd421, type: 3}
+  - source: {fileID: 21300000, guid: 5de564f0fcaec4d16b62592c01293ce2, type: 3}
+    targetSprite: {fileID: 21300008, guid: 25a772c2a265248bebf9c842987cd421, type: 3}
+  - source: {fileID: 21300000, guid: 1ecadf11714e6427e9cce4ae71d59414, type: 3}
+    targetSprite: {fileID: 21300010, guid: 25a772c2a265248bebf9c842987cd421, type: 3}
+  - source: {fileID: 21300000, guid: 784b91a8dae8c41c6a058b80720053b1, type: 3}
+    targetSprite: {fileID: 21300012, guid: 25a772c2a265248bebf9c842987cd421, type: 3}
+  m_PendingActions: []

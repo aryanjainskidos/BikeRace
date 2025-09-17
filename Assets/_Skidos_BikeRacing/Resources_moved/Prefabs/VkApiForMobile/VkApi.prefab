@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &173340
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 473340}
+  - 114: {fileID: 11458940}
+  - 114: {fileID: 11473336}
+  - 114: {fileID: 11473338}
+  - 114: {fileID: 11473340}
+  m_Layer: 0
+  m_Name: VkApi
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &473340
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 173340}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11458940
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 173340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd83b73d2e9754a70883b851ac89adcf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  VkAppId: 5052542
+  auth_url: https://oauth.vk.com/blank.html#access_token=3916f9f8e3e8c29f4df21c5e47e09394949129dd4efe16cf140ab1a7d7dfd8899dbe2d264681b9a1740fb&expires_in=86400&user_id=320512907
+  scope:
+  - wall
+  forceOAtuh: 0
+  revoke: 1
+  apiVersion: 5.33
+  notify: 0
+  friends: 0
+  photos: 0
+  audio: 0
+  video: 0
+  docs: 0
+  notes: 0
+  pages: 0
+  status: 0
+  offers: 0
+  questions: 0
+  wall: 1
+  groups: 0
+  messages: 0
+  notifications: 0
+  stats: 0
+  ads: 0
+  offline: 0
+  nohttps: 0
+--- !u!114 &11473336
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 173340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75da4f14f3ec44d46b32f812ca08ec2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isUserLoggedIn: 0
+  vsetts: {fileID: 0}
+  access_token_manual: 
+  user_id_manual: 
+--- !u!114 &11473338
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 173340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5287036e33c234da98fa0dbe084596c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11473340
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 173340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdefec639121a4834aa69832ac985cf7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 173340}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

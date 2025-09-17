@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02cd8658f0f04495299fd7741949e5a3, type: 3}
+  m_Name: Objects_Arctic
+  m_EditorClassIdentifier: 
+  m_Texture: {fileID: 2800000, guid: d0d67940987b14a86b41a1bc62910287, type: 3}
+  m_Padding: 1
+  m_MaxSize: 4096
+  m_PackingMethod: 0
+  m_DefaultPivot: 0
+  m_DefaultCustomPivot: {x: .5, y: .5}
+  m_Sprites:
+  - source: {fileID: 21300000, guid: c6c8d21a8f2b245f6a42a833b9af1769, type: 3}
+    targetSprite: {fileID: 21300000, guid: d0d67940987b14a86b41a1bc62910287, type: 3}
+  - source: {fileID: 21300000, guid: 0216b4ca79dbc4c0fb263c194a012c65, type: 3}
+    targetSprite: {fileID: 21300002, guid: d0d67940987b14a86b41a1bc62910287, type: 3}
+  - source: {fileID: 21300000, guid: f6a939471516341d2951313c396d1260, type: 3}
+    targetSprite: {fileID: 21300004, guid: d0d67940987b14a86b41a1bc62910287, type: 3}
+  - source: {fileID: 21300000, guid: 9e8b798d059244a9780b18f7807db408, type: 3}
+    targetSprite: {fileID: 21300006, guid: d0d67940987b14a86b41a1bc62910287, type: 3}
+  - source: {fileID: 21300000, guid: 83f4e9b1fd38847a98ef2732a95f8c2a, type: 3}
+    targetSprite: {fileID: 21300008, guid: d0d67940987b14a86b41a1bc62910287, type: 3}
+  - source: {fileID: 21300000, guid: 976d8c718dd72470995e325b34eca5a8, type: 3}
+    targetSprite: {fileID: 21300010, guid: d0d67940987b14a86b41a1bc62910287, type: 3}
+  - source: {fileID: 21300000, guid: 60b6be32ba5e345bfb061838732f0db8, type: 3}
+    targetSprite: {fileID: 21300012, guid: d0d67940987b14a86b41a1bc62910287, type: 3}
+  - source: {fileID: 21300000, guid: b6e91104781894a15a8031a243845880, type: 3}
+    targetSprite: {fileID: 21300014, guid: d0d67940987b14a86b41a1bc62910287, type: 3}
+  - source: {fileID: 21300000, guid: 16e49b60edcd448a8b90d1d47fba9615, type: 3}
+    targetSprite: {fileID: 21300032, guid: d0d67940987b14a86b41a1bc62910287, type: 3}
+  m_PendingActions: []

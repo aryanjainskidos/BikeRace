@@ -1,0 +1,1339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - EndLevel
+  - GemCollider
+  - JumpPad
+  - BonusRing
+  - Environment
+  - Bottom
+  - Monster
+  - Bait
+  - Rock
+  - JigsawPiece
+  - SpiderLegPart
+  - PixieParticle
+  - UICamera
+  - StarsEffect
+  - Path
+  - VideoPlayerPanel
+  - Fill
+  - Number
+  - Collider
+  - Line
+  - Content
+  - Message
+  - Point
+  - mathLab
+  - Ground
+  - FxTemporaire
+  - FinalPoint
+  - Releasable
+  - MainCanvas
+  - Crater
+  - Candy
+  - ActivatedPickUp
+  - MovingCollider
+  - Number
+  - Point
+  - Fill
+  - Collider
+  - Path
+  - StarsEffect
+  - Message
+  - Pointer
+  - Content
+  - SkidosCanvas
+  - Line
+  - VideoPlayerPanel
+  - Group
+  - SkidosMainCamera
+  - subTopicImage
+  - rope2D
+  - Interactive
+  - PNJ Car
+  - candy
+  - tack
+  - Player Car
+  - Ground
+  - MiddleMapPosition
+  - EndMapPosition
+  - StartMapPosition
+  - StarsEffect
+  - Path
+  - VideoPlayerPanel
+  - Fill
+  - Number
+  - Collider
+  - Content
+  - Line
+  - Message
+  - Point
+  - GameSound
+  - Pointer
+  - Group
+  - Character
+  - Food
+  - Clothes
+  - Cleaner
+  - HatchableEgg
+  - HorsePart
+  - Malka
+  - Hearth
+  - CatapultProjectile
+  - Metal
+  - Dish
+  - Hay
+  - ToothBrush
+  - EggCreature
+  - HorseClothes
+  - Hat
+  - WardrobeDoor
+  - Bow
+  - SharpeningEdge
+  - Spear
+  - Horse
+  - Armor
+  - HorseSaddle
+  - PlantHouse
+  - Tool
+  - Sculpt
+  - Arrow
+  - Harpy
+  - Bird
+  - Flower
+  - MiniDragon
+  - Sprout
+  - Broomcycle
+  - FlowerFairy
+  - Baby
+  - XMassToy
+  - XMassGift
+  - Animal
+  - SuperEgg
+  - HalloweenGift
+  - Snowman
+  - SkidosCanvas
+  - SkidosMainCamera
+  - StarsEffect
+  - Path
+  - Fill
+  - Number
+  - Collider
+  - Message
+  - Content
+  - Line
+  - Point
+  - VideoPlayerPanel
+  - do-not-save
+  - StartZone
+  - GUICamera
+  - UnzoomBoundsExtender
+  - bike-part
+  - save-as-prefab
+  - just-loaded
+  - Pickup
+  - UIRoot
+  - StuntZone
+  - PlayerRagdoll
+  - DeathZone
+  - Glass
+  - BombRadial
+  - BombFake
+  - BombPlank
+  - BoostEffect
+  - Bomb
+  - WaterZone
+  - FinishLine
+  - AI
+  - SpikeZone
+  - CheckpointZone
+  - CheckpointPole
+  - LeafPile
+  - Puddle
+  - BirdZone
+  - Bird
+  - StarsEffect
+  - VideoPlayerPanel
+  - Path
+  - Point
+  - Collider
+  - Number
+  - Fill
+  - Content
+  - Line
+  - Message
+  - Pointer
+  - Group
+  - TutorialZone
+  - mainGameScreen
+  - MainCameraGame
+  - SkidosCanvas
+  - SkidosMainCamera
+  - subTopicImage
+  - Weapon
+  - LevelTrigger
+  - FxTemporaire
+  - ground
+  - score
+  - fuel
+  - win
+  - playsound
+  - Ground
+  - LevelMusic
+  - CoinTrigger
+  - MenuMusic
+  - Character
+  - Car
+  - FrontCarWheel
+  - CarBody
+  - BackCarWheel
+  - Button
+  - Wheel
+  - SnapperHolder
+  - CameraUI
+  - ParticlesHolder
+  - Water
+  - DeepWater
+  - IgnoreParticles
+  - Snapper
+  - EndScreen
+  - FaderHole
+  - Gift1
+  - Gift2
+  - Gift3
+  - LevelBaseCanvas
+  - LevelBaseCanvasUI
+  - NpcHolder
+  - CenteredGift
+  - Path
+  - StarsEffect
+  - Fill
+  - Number
+  - Collider
+  - VideoPlayerPanel
+  - Content
+  - Line
+  - Message
+  - Point
+  - PepiCoverPanel
+  - SunLight
+  - Path
+  - StarsEffect
+  - Fill
+  - Number
+  - Collider
+  - VideoPlayerPanel
+  - Content
+  - Message
+  - Line
+  - Point
+  - Global
+  - TracingScreen
+  - SkidosCanvas
+  - GameUICamera
+  - ExplosionFX
+  - Bee
+  - Level
+  - Mushroom
+  - Honey
+  - BearDen
+  - Hole
+  - Hornet
+  - UICamera
+  - ParentsButton
+  - Dragable
+  - Music
+  - Path
+  - StarsEffect
+  - Fill
+  - Number
+  - Collider
+  - VideoPlayerPanel
+  - Content
+  - Message
+  - Line
+  - Point
+  - planeShapes
+  - FxTemporaire
+  - planeShapesCollide
+  - bodyCollide
+  - airscrewCollide
+  - pivot
+  - PourZone
+  - Cake
+  - ContainerContent
+  - HoldSpotLeft
+  - HoldSpotRight
+  - Slicable
+  - Playerinformation
+  - NonSlicableIngredient
+  - Keep
+  - Bin
+  - BowlContainRect
+  - Bowl
+  - SkidosMainCamera
+  - SkidosCanvas
+  - SkyLetter
+  - Train
+  - Structure
+  - Coin
+  - FloatingMenuItem
+  - Wagon
+  - Letter
+  - SpellGameBackground
+  - SpellGameItem
+  - MoneyBar
+  - CoinCounter
+  - BuildMenuItem
+  - Citizen
+  - ConfirmMenuButton
+  - Playfield
+  - Grid
+  - Road
+  - HelpingHand
+  - GhostStructure
+  - GUICamera
+  - BuildMenuExitButton
+  - Machine
+  - Tornado
+  - Menu
+  - xpBar
+  - Slime
+  - Building
+  - ParentContainers
+  - ShopCamera
+  - PivotCollider
+  - Surface
+  - LevelCollider
+  - Open Door
+  - Closed Door
+  - Slice Button
+  - Draggable
+  - Interaction Controller
+  - SliceCollider
+  - Snap
+  - Knife
+  - Pour Zone
+  - MonsterMouth
+  - MonsterCollider
+  - MonsterArmLeft
+  - MonsterArmRight
+  - Chest
+  - MonsterArm
+  - hat
+  - MonsterHead
+  - JuryButton
+  - MonsterHatSnap
+  - MonsterLeftHandSnap
+  - MonsterRightHandSnap
+  - sign
+  - RecipeManager
+  - Spoon
+  - Monster
+  - PlayerInformation
+  - Lock
+  - GUI
+  - Purp
+  - PriceTag
+  - Container
+  - FinalCake
+  - Paw
+  - FryingPan
+  - Filch
+  - FryingSurface
+  - FrikadelleDough
+  - Plate
+  - Canvas
+  - Burner
+  - Pointer
+  - Group
+  - AppObject
+  - Clothes
+  - Character
+  - FireExtinguisher
+  - Glass
+  - Money
+  - Doc
+  - DocHolder
+  - Food
+  - Ambulance
+  - Stretchers
+  - PhoneTop
+  - Pampers
+  - Diapers
+  - Shoothers
+  - Toys
+  - Kolba
+  - Syringe
+  - Blood
+  - WCPaper
+  - SinkWater
+  - ToothBrush
+  - BandAid
+  - Clean
+  - ParentBtn
+  - Clapa
+  - NguiCamera
+  - CurtainCamera
+  - GameCamera
+  - Ball
+  - Potatoes
+  - GlassTop
+  - Fruit
+  - Cup
+  - Flag
+  - Microphone
+  - Log
+  - Oil
+  - FriesBag
+  - FoodExchangableNoEat
+  - GameGUI
+  - BaseWeb
+  - CatchWeb
+  - Manager
+  - Vovere
+  - Animals
+  - Items
+  - FoodExchangable
+  - Jewelery
+  - Jewelery2
+  - DontDestroyOnLoadComponent
+  - ANCHOR
+  - T1
+  - T2
+  - NativeAd
+  - Enemy
+  - Bonus
+  - Cave
+  - Title
+  - GameManager
+  - SoundManager
+  - TouchBox
+  - Room
+  - Test
+  - GameCtrl
+  - Path
+  - StarsEffect
+  - Fill
+  - Number
+  - Collider
+  - VideoPlayerPanel
+  - Content
+  - Line
+  - Message
+  - Point
+  - do-not-save
+  - StartZone
+  - GUICamera
+  - UnzoomBoundsExtender
+  - bike-part
+  - save-as-prefab
+  - just-loaded
+  - Pickup
+  - UIRoot
+  - StuntZone
+  - PlayerRagdoll
+  - DeathZone
+  - Glass
+  - BombRadial
+  - BombFake
+  - BombPlank
+  - BoostEffect
+  - Bomb
+  - WaterZone
+  - FinishLine
+  - AI
+  - SpikeZone
+  - CheckpointZone
+  - CheckpointPole
+  - LeafPile
+  - Puddle
+  - BirdZone
+  - Bird
+  - really-do-not-save
+  - Money
+  - CollectibleZone
+  - Barrel
+  - PreFinishZone
+  - MudZone
+  - RockZone
+  - Track
+  - SaveAsObject
+  - Swing
+  - TutorialZone
+  - Fuel
+  - Launcher
+  - RecordMarker
+  - StartGates
+  - WindZone
+  - Path
+  - StarsEffect
+  - Fill
+  - Number
+  - Collider
+  - VideoPlayerPanel
+  - Content
+  - Line
+  - Message
+  - Point
+  - BikeContainer
+  - SnowParticles
+  - JumpTrigger
+  - NonStopZone
+  - PreKickZone
+  - AINitroZone
+  - Ramp
+  - GeneratedText
+  - subTopicImage
+  - TrainScene
+  - TrainWindow
+  - TrainSound
+  - Horizontal
+  - Vertical
+  - Character
+  - Car
+  - Boat
+  - Mesh
+  - FxTemporaire
+  - Rainbow
+  - centerball
+  - Pot
+  - Ball
+  - Bug
+  - animal
+  - empty
+  - animalMed
+  - animalLarge
+  - cloud
+  - light
+  - black_hole
+  - Destroy
+  - Path
+  - StarsEffect
+  - Fill
+  - Number
+  - Collider
+  - VideoPlayerPanel
+  - Content
+  - Message
+  - Line
+  - Point
+  - SkidosCanvas
+  - SkidosCamera
+  - SkidosMainCamera
+  - Edited
+  - NewEdited
+  - Sticker
+  - Blank
+  - Textured
+  - UIManager1
+  - SoundManager1
+  - Music1
+  - BackgroundMusic1
+  - Coroutines1
+  - DifficultyManager1
+  - GameManager1
+  - Effects
+  - Woollie
+  - HotSpot
+  - InteractiveObject
+  - SoilSpot
+  - Food
+  - Seed
+  - Drink
+  - Wood
+  - Fire
+  - Key
+  - Soil
+  - Basket
+  - Path
+  - StarsEffect
+  - Fill
+  - Number
+  - Collider
+  - VideoPlayerPanel
+  - Content
+  - Line
+  - Message
+  - Point
+  - Horizontal
+  - Vertical
+  - Character
+  - Car
+  - Boat
+  - rope2D
+  - Interactive
+  - PNJ Car
+  - candy
+  - tack
+  - Player Car
+  - Ground
+  - MiddleMapPosition
+  - EndMapPosition
+  - StartMapPosition
+  - StarsEffect
+  - Path
+  - VideoPlayerPanel
+  - Fill
+  - Number
+  - Collider
+  - Content
+  - Line
+  - Message
+  - Point
+  - GameSound
+  - Pointer
+  - Group
+  - Platform
+  - MenuMathlabCanvas
+  - popup
+  - star
+  - corner
+  - end
+  - hint
+  - start
+  - straight
+  - leftTrigger
+  - rightTrigger
+  - coffee
+  - electricity
+  - elevator
+  - food
+  - jumper
+  - monster
+  - pusher
+  - sand
+  - spyke
+  - Trunky
+  - Bucket
+  - Pond
+  - Lake
+  - Fish
+  - Splash
+  - FishSpawn
+  - GameSettings
+  - EndRound
+  - TwoPlayerText
+  - scoreP1
+  - scoreP2
+  - QuestFishBar
+  - HourGlass
+  - Hat
+  - Dish
+  - skidosGameMathBtn
+  - Bacteria
+  - LowerTeeth
+  - Tooth
+  - PetHair
+  - Water
+  - DropArea
+  - Liftas
+  - Wall
+  - BonusDrop
+  - TrainDrop
+  - TutorialPoint
+  - SceneConfig
+  - RedApplePlain
+  - ForestHarvestHousePart
+  - ForestHarvestTruckHull
+  - JigsawActivePart
+  - JigsawPlaceholder
+  - PondObject
+  - RedAppleLarge
+  - ShyFly
+  - SnowmanHeadPlaceTrigger
+  - Snowball
+  - SnowmanRightArmTrigger
+  - SnowmanLeftArmTrigger
+  - SnowmanHead
+  - SnowmanArm
+  - RainAreaTrigger
+  - WormHead
+  - HomeSceneIconSpriteMask
+  - GateExit
+  - TramwayTurn
+  - MathlabGO
+  - UI
+  - FishSpawn1
+  - FishSpawn2
+  - LashTarget
+  - ScoreLabel
+  - KillsLabel
+  - PreludeTarget
+  - BossTNT
+  - TreasureTarget
+  - Parentbtn
+  - CPM_Cam
+  - MathlabCanvas
+  - Menu_Cam
+  - panelMenu
+  - cameraBackground
+  - BugsCollider
+  - GroundCollider
+  - ForestHarvestableTree
+  - ForestHarvestInitialPositionTrigger
+  - ForestHarvestHousePartsTrigger
+  - ForestHarvestPit
+  - HomeSceneMemory
+  - ShyFlyHideCollider
+  - ShyFlyCageEntryTrigger
+  - WateringPlantsExitArea
+  - WateringPlantsTrigger
+  - WateringCan
+  - PonyCarrotsTrigger
+  - PonyRaspberriesTrigger
+  - PonyCharacter
+  - WaterActivityFish
+  - IceBlock
+  - Over
+  - ClickBlocker
+  - PixieParticle
+  - SpiderLegPart
+  - JigsawPiece
+  - mathLab
+  - PicaVoxelVolume
+  - ForwardVector
+  - EndLevel
+  - rewardModal
+  - GetCoinsUI
+  - TurnRotator
+  - NeedHelpUI
+  - UIManager
+  - pinchIMG
+  - snapContainer
+  - advertisement
+  - SINGLETON
+  - backBTN
+  - IgnoreCollision
+  - Bullet
+  - TriggerPoint
+  - tablita ipad
+  - tablita iphone 5
+  - tablita iphone
+  - Occluder Static
+  - IngredientManager
+  - IgnorePanel
+  - ObstacleTrain
+  - ObstacleGrind
+  - Pickup_MysteryBox
+  - Pickup_CoinWitch
+  - Pickup_DoubleJump
+  - MinesZone
+  - Pickup_CoinSmall
+  - Pickup_CoinMedium
+  - Pickup_CoinLarge
+  - Pickup_CoinMultiplier
+  - Pickup_Token
+  - Pickup_Magnet
+  - Pickup_Rocket
+  - Pickup_Candy
+  - Pickup_ScoreMultiplier
+  - Pickup_Invincibility
+  - Pickup_CoinJump
+  - Pickup_Skateboard
+  - Trigger_RunningMode
+  - Trigger_JumpMode
+  - Trigger_Wholepipe
+  - Trigger_SideView
+  - Trigger_Boss
+  - Trigger_GrindRail
+  - Trigger_Tutorial
+  - Trigger_EffectsManager
+  - Trigger_Goal
+  - Trigger_Halfpipe
+  - Scylla
+  - ObstacleCroco
+  - Boss_ChaseEnd
+  - Trigger_Knocker
+  - Trigger_TrickMode
+  - Pickup_Cage
+  - Trigger_SkateboardMode
+  - Trigger_ThemeChange
+  - Trigger_Tunnel
+  - Trigger_Action_Jump
+  - Pickup_LetterPickup
+  - Trigger_WallGrind
+  - ObstacleNoKill
+  - Track
+  - Trigger_Duck
+  - Pickup_GiftDice
+  - Trigger_DuckVehicle
+  - Pickup_CoinRing
+  - Trigger_DuckDetection
+  - Trigger_JumpDetection
+  - Pickup_Gem
+  - Soft
+  - Trigger_StripPowerups
+  - MovingTarget
+  - LaneClosed
+  - ObstacleFootballer
+  - LaneWalkerBall
+  - ObstacleHead
+  - Trigger_Metric
+  - Trigger_Building
+  - Trigger_HiddenRoute
+  - Trigger_Polygoon_JumpDetection
+  - Pickup_PointsLarge
+  - Polygoon
+  - VideoPlayerPanel
+  - SkidosCanvas
+  - SkidosMainCamera
+  - SkidosCamera
+  - StarsEffect
+  - Path
+  - Fill
+  - Number
+  - Collider
+  - Content
+  - Line
+  - Message
+  - Point
+  - RawImage
+  - SkidosInternetCanvas
+  - MagicLevel
+  - Box
+  - SkidosParentSection
+  - DestroyAnimals
+  - TutUIClaimPanel
+  - TutButCasinoStop
+  - RiggedBikePart
+  - CarShadowMidPoint
+  - WheelShadowPoint
+  - Torch
+  - CatapultJoint
+  - VenueMarker
+  - TutButGarageFinishNow
+  - TutButOpenGarage
+  - KickZone
+  - Turret
+  - Keypad
+  - Pet
+  - PetSkin
+  - OverlayDialog
+  - DebugWindow
+  - LoadingScreenChild
+  - LoadingScreen3d
+  - PointBack
+  - PointDown
+  - PointUp
+  - PointRight
+  - PointLeft
+  - Obstacle
+  - Net
+  - PlayerPointer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
+  - 27
+  - 28
+  - 29
+  - 30
+  - 31
+  m_SortingLayers:
+  - name: FarBackground
+    uniqueID: 2959335953
+    locked: 0
+  - name: NearBackground
+    uniqueID: 485611753
+    locked: 0
+  - name: Sky
+    uniqueID: 3594353077
+    locked: 0
+  - name: Background
+    uniqueID: 1795189649
+    locked: 0
+  - name: Background
+    uniqueID: 2130893337
+    locked: 0
+  - name: Background
+    uniqueID: 1412713635
+    locked: 0
+  - name: Background
+    uniqueID: 3649035481
+    locked: 0
+  - name: BuildMenu
+    uniqueID: 2621441013
+    locked: 0
+  - name: Tree
+    uniqueID: 1925022745
+    locked: 0
+  - name: Terrain
+    uniqueID: 3878634601
+    locked: 0
+  - name: Plants
+    uniqueID: 338310443
+    locked: 0
+  - name: Background
+    uniqueID: 1610080387
+    locked: 0
+  - name: StaticWallObjects
+    uniqueID: 159344227
+    locked: 0
+  - name: PlacedWallObjects
+    uniqueID: 2083860343
+    locked: 0
+  - name: StaticBackgroundObject
+    uniqueID: 589177399
+    locked: 0
+  - name: PlacedBackgroundObject
+    uniqueID: 308334349
+    locked: 0
+  - name: PlacedBackgroundFuzzy
+    uniqueID: 2272601555
+    locked: 0
+  - name: StaticForegroundObjects
+    uniqueID: 3825330595
+    locked: 0
+  - name: PlacedForegroundObject
+    uniqueID: 1092041081
+    locked: 0
+  - name: PlacedForegroundFuzzy
+    uniqueID: 2650847801
+    locked: 0
+  - name: GUIObject
+    uniqueID: 4200704153
+    locked: 0
+  - name: MovedFuzzy
+    uniqueID: 3528864537
+    locked: 0
+  - name: MovedObject
+    uniqueID: 3554992127
+    locked: 0
+  - name: ActivityObject
+    uniqueID: 518557729
+    locked: 0
+  - name: Far Background
+    uniqueID: 3727803541
+    locked: 0
+  - name: Background
+    uniqueID: 933084405
+    locked: 0
+  - name: Near Background
+    uniqueID: 1116120611
+    locked: 0
+  - name: Background
+    uniqueID: 1964569617
+    locked: 0
+  - name: Background
+    uniqueID: 1248915585
+    locked: 0
+  - name: Foreground
+    uniqueID: 3826621409
+    locked: 0
+  - name: HouseBehind
+    uniqueID: 3204827149
+    locked: 0
+  - name: HouseBack
+    uniqueID: 2359626911
+    locked: 0
+  - name: HouseMiddle
+    uniqueID: 2430904541
+    locked: 0
+  - name: HouseFront
+    uniqueID: 3746633509
+    locked: 0
+  - name: Lake
+    uniqueID: 1835708675
+    locked: 0
+  - name: Playground
+    uniqueID: 1293184129
+    locked: 0
+  - name: FarBackground
+    uniqueID: 2959335953
+    locked: 0
+  - name: NearBackground
+    uniqueID: 485611753
+    locked: 0
+  - name: BG
+    uniqueID: 249502699
+    locked: 0
+  - name: ITEMI
+    uniqueID: 207209503
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 429796591
+    locked: 0
+  - name: Foreground
+    uniqueID: 128732895
+    locked: 0
+  - name: Effects
+    uniqueID: 793064729
+    locked: 0
+  - name: Foreground
+    uniqueID: 1934840467
+    locked: 0
+  - name: Oil
+    uniqueID: 2376168233
+    locked: 0
+  - name: Player
+    uniqueID: 3640805049
+    locked: 0
+  - name: Ground
+    uniqueID: 1545699779
+    locked: 0
+  - name: Oil Caves
+    uniqueID: 2344889065
+    locked: 0
+  - name: Pipe
+    uniqueID: 444140671
+    locked: 0
+  - name: Oil Cave Content
+    uniqueID: 2065750157
+    locked: 0
+  - name: Foreground
+    uniqueID: 1099784183
+    locked: 0
+  - name: Start Menu
+    uniqueID: 2314572047
+    locked: 0
+  - name: Giraffe
+    uniqueID: 2831215501
+    locked: 0
+  - name: Zebra
+    uniqueID: 3704774567
+    locked: 0
+  - name: Pig
+    uniqueID: 3489975493
+    locked: 0
+  - name: Owl
+    uniqueID: 2261887503
+    locked: 0
+  - name: Cow
+    uniqueID: 882568445
+    locked: 0
+  - name: Penguin
+    uniqueID: 3757328383
+    locked: 0
+  - name: Animals
+    uniqueID: 2300660555
+    locked: 0
+  - name: Coins
+    uniqueID: 3729426997
+    locked: 0
+  - name: Palm
+    uniqueID: 3196149299
+    locked: 0
+  - name: ZZZ
+    uniqueID: 1710628165
+    locked: 0
+  - name: Tutorial
+    uniqueID: 1336114109
+    locked: 0
+  - name: Overlay
+    uniqueID: 1638286859
+    locked: 0
+  - name: GUI
+    uniqueID: 1403070391
+    locked: 0
+  - name: GUI
+    uniqueID: 1147639361
+    locked: 0
+  - name: Particle
+    uniqueID: 3303010619
+    locked: 0
+  - name: Eyes
+    uniqueID: 3281620809
+    locked: 0
+  - name: Duck
+    uniqueID: 992058255
+    locked: 0
+  - name: Feet
+    uniqueID: 2054065595
+    locked: 0
+  - name: Bubbles
+    uniqueID: 3197460945
+    locked: 0
+  - name: ShowerWater
+    uniqueID: 772198777
+    locked: 0
+  - name: BathShelfImg
+    uniqueID: 2797395681
+    locked: 0
+  - name: BathShelf
+    uniqueID: 2021561653
+    locked: 0
+  - name: WaterTap
+    uniqueID: 3212342205
+    locked: 0
+  - name: Dragables
+    uniqueID: 3694894207
+    locked: 0
+  - name: ClappingHands
+    uniqueID: 1613751333
+    locked: 0
+  - name: DarkBG
+    uniqueID: 2996864743
+    locked: 0
+  - name: MaskedObject
+    uniqueID: 465016181
+    locked: 0
+  - name: OwlFace
+    uniqueID: 402986141
+    locked: 0
+  - name: OwlDragables
+    uniqueID: 1843375179
+    locked: 0
+  - name: FinalPhoto
+    uniqueID: 2045659525
+    locked: 0
+  - name: BackBtn
+    uniqueID: 2528098181
+    locked: 0
+  - name: Back
+    uniqueID: 2118919891
+    locked: 0
+  - name: Middle
+    uniqueID: 411925879
+    locked: 0
+  - name: Front
+    uniqueID: 1969496933
+    locked: 0
+  - name: SkidosTopLayer
+    uniqueID: 3715748273
+    locked: 0
+  - name: HINT
+    uniqueID: 3495283471
+    locked: 0
+  - name: UI
+    uniqueID: 2314205663
+    locked: 0
+  - name: CLEAN
+    uniqueID: 4215223839
+    locked: 0
+  - name: MOVE
+    uniqueID: 227071751
+    locked: 0
+  - name: TOOL
+    uniqueID: 1240073825
+    locked: 0
+  - name: Characters
+    uniqueID: 1288091507
+    locked: 0
+  - name: Bonuses
+    uniqueID: 1513691191
+    locked: 0
+  - name: Foreground
+    uniqueID: 2949433559
+    locked: 0
+  - name: UI
+    uniqueID: 2781246727
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1133925485
+    locked: 0
+  - name: UI layer
+    uniqueID: 2880480255
+    locked: 0
+  - name: Game
+    uniqueID: 1250985935
+    locked: 0
+  - name: Menu
+    uniqueID: 3565512705
+    locked: 0
+  - name: CaseOpening
+    uniqueID: 315388821
+    locked: 0
+  - name: AdLoader
+    uniqueID: 4164325781
+    locked: 0
+  - name: GDPR
+    uniqueID: 2050771749
+    locked: 0
+  - name: CrossFade
+    uniqueID: 3564134455
+    locked: 0
+  - name: Wood
+    uniqueID: 1440682429
+    locked: 0
+  - name: Elevator
+    uniqueID: 2266155483
+    locked: 0
+  - name: Fan
+    uniqueID: 2292485519
+    locked: 0
+  - name: Ice
+    uniqueID: 3186163909
+    locked: 0
+  - name: Stone
+    uniqueID: 2782951451
+    locked: 0
+  - name: Sand
+    uniqueID: 3311213743
+    locked: 0
+  - name: Pusher
+    uniqueID: 3546447295
+    locked: 0
+  - name: Jumper
+    uniqueID: 2509897583
+    locked: 0
+  - name: Spyke
+    uniqueID: 1224485033
+    locked: 0
+  - name: Electricity
+    uniqueID: 1466313489
+    locked: 0
+  - name: Cat
+    uniqueID: 248739697
+    locked: 0
+  - name: Plank
+    uniqueID: 2509686011
+    locked: 0
+  - name: Star
+    uniqueID: 2532756717
+    locked: 0
+  - name: Food
+    uniqueID: 2204890347
+    locked: 0
+  - name: FXs
+    uniqueID: 2273690487
+    locked: 0
+  - name: Tutorial
+    uniqueID: 4232890671
+    locked: 0
+  - name: Plattform
+    uniqueID: 1642205087
+    locked: 0
+  - name: DecoBackground
+    uniqueID: 1363684293
+    locked: 0
+  - name: Interactables
+    uniqueID: 4204239341
+    locked: 0
+  - name: Character
+    uniqueID: 3078425359
+    locked: 1
+  - name: DecoForeground
+    uniqueID: 3371381107
+    locked: 0
+  - name: Foreground
+    uniqueID: 2045966571
+    locked: 0
+  - name: RigControls
+    uniqueID: 616099587
+    locked: 0
+  - name: Bones
+    uniqueID: 395573367
+    locked: 1
+  - name: FX
+    uniqueID: 769809415
+    locked: 0
+  - name: Vehicle
+    uniqueID: 1547562481
+    locked: 0
+  - name: FrontObjects
+    uniqueID: 2995020023
+    locked: 0
+  - name: Tools
+    uniqueID: 3526505877
+    locked: 0
+  - name: Environment
+    uniqueID: 3058724279
+    locked: 0
+  - name: UI
+    uniqueID: 396848247
+    locked: 0
+  - name: Player
+    uniqueID: 429796591
+    locked: 0
+  - name: Foreground
+    uniqueID: 128732895
+    locked: 0
+  - name: Effects
+    uniqueID: 793064729
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3839794799
+    locked: 0
+  - name: ForeGround+1
+    uniqueID: 1586299367
+    locked: 0
+  - name: ForeGround+2
+    uniqueID: 3484979909
+    locked: 0
+  - name: Canvas layer
+    uniqueID: 1960410679
+    locked: 0
+  - name: Text bg layer
+    uniqueID: 3445097879
+    locked: 0
+  - name: Story text layer
+    uniqueID: 3864828599
+    locked: 0
+  - name: Back Cloud
+    uniqueID: 1392398035
+    locked: 0
+  - name: Front Cloud
+    uniqueID: 3356176869
+    locked: 0
+  - name: Surface Hills
+    uniqueID: 2255844379
+    locked: 0
+  - name: Water Plane
+    uniqueID: 3608505745
+    locked: 0
+  - name: Water Objects
+    uniqueID: 2784670367
+    locked: 0
+  - name: BG
+    uniqueID: 428193739
+    locked: 0
+  - name: Round Bait
+    uniqueID: 164193289
+    locked: 0
+  - name: MG
+    uniqueID: 3860643435
+    locked: 0
+  - name: Monster
+    uniqueID: 2282564029
+    locked: 0
+  - name: FG
+    uniqueID: 4032873923
+    locked: 0
+  - name: Water
+    uniqueID: 226797793
+    locked: 0
+  - name: UI Element
+    uniqueID: 1646395651
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7

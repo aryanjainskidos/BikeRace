@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Skidos_BikeRacing/scenes/MainOneAtATimeBikeRacing.unity
+    guid: 86c81b2074b3a420689e7d70b0e78909
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 2929a846adf3b40d1962d05df8fb371d,
+      type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2c39a972b23d247fbb7f1d2787933fd0,
+      type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 09c34982599294bd7b119de2a3ee8fc8,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2e64b49bf124d4f2d9c2764faeb5bd46,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
